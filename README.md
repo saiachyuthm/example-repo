@@ -1,3 +1,4 @@
 # Example Repository
-This is a simple repo, hello world!
+This is a sample repo, hello coder!
 
+This is a second change.
